@@ -12,7 +12,7 @@ A simple full-stack **Task Manager** web application built for the Full Stack De
 
 | Step | Requirement | Status |
 |------|-------------|--------|
-| 1 | Video submission (2–3 min, unedited) | **You record this** (script below) |
+| 1 | Video submission (2–3 min, unedited) | Submit separately with your application |
 | 2 | Coding assessment (CRUD tasks + REST + DB) | ✅ This repository |
 | 3 | Public API integration | ✅ Open-Meteo weather widget |
 | 4 | Architecture / code-review questions | ✅ See below |
@@ -261,24 +261,6 @@ Assessment/
             ├── TaskList.jsx
             └── WeatherWidget.jsx
 ```
-
----
-
-## Step 1: Video script (record yourself, 2–3 minutes, no edits)
-
-Use this as a speaking outline:
-
-1. **Why hire you?**  
-   “I bring 3+ years of full-stack experience building production web apps end-to-end — UI, APIs, databases, and deployment. I care about clean code, performance, and shipping reliably.”
-
-2. **App you built + your contributions**  
-   “For this assessment I built a Task Manager: React frontend, Express REST API, SQLite persistence. I implemented full CRUD, completed-state toggles, validation, and a weather integration via Open-Meteo.”
-
-3. **Comfortable technologies**  
-   “Frontend: React and modern JavaScript/CSS for responsive UIs. Backend: Node.js and Express for REST APIs. Databases: SQL (SQLite/PostgreSQL/MySQL) and familiarity with MongoDB. Git for version control.”
-
-4. **Technical challenge**  
-   “Example: coordinating frontend state with async API updates without stale UI — I used clear load/update flows, error handling, and optimistic-friendly patterns so create/edit/delete stay consistent with the server.”
 
 ---
 

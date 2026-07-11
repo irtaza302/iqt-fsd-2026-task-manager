@@ -4,8 +4,8 @@
   "description": "Full Stack Task Manager API - IQT Full Stack Developer Assessment",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js"
+    "start": "node init && node server.js",
+    "dev": "node init && node --watch server.js"
   },
   "dependencies": {
     "better-sqlite3": "^11.7.0",

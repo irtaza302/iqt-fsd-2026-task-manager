@@ -4,9 +4,8 @@ build/
 *.db
 *.db-wal
 *.db-shm
-.env
-.env.local
 .DS_Store
 Thumbs.db
 *.log
 .vite/
+config.bat

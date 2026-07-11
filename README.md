@@ -54,8 +54,8 @@ A simple full-stack **Task Manager** web application built for the Full Stack De
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd Assessment
+git clone https://github.com/irtaza302/iqt-fsd-2026-task-manager.git
+cd iqt-fsd-2026-task-manager
 ```
 
 ### 2. Install backend dependencies
@@ -167,17 +167,16 @@ Endpoints used:
 5. Proxying through our backend keeps CORS simple and centralizes third-party calls.
 
 ### Screenshot of working integration
-1. Start backend + frontend (see Setup).
-2. Open http://localhost:5173
-3. Use the **Open-Meteo Weather** card at the top — search any city.
-4. Capture a screenshot of the temperature and location (place it at `docs/weather-integration.png` when submitting, or attach it in your application email).
+
+Live app showing the Open-Meteo weather widget (Lahore) plus the task list:
+
+![Open-Meteo weather API integration — Task Manager](docs/weather-integration.png)
 
 ### GitHub commit showing this work
-Commit that includes the weather integration (`backend/routes/weather.js` + `frontend/src/components/WeatherWidget.jsx`):
-
-```text
-https://github.com/irtaza302/iqt-fsd-2026-task-manager/commit/5d52eea
-```
+- Implementation (`backend/routes/weather.js` + `frontend/src/components/WeatherWidget.jsx`):  
+  https://github.com/irtaza302/iqt-fsd-2026-task-manager/commit/5d52eea
+- Screenshot commit:  
+  https://github.com/irtaza302/iqt-fsd-2026-task-manager/commit/9d64509
 
 ---
 

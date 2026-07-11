@@ -18,9 +18,10 @@ Flow:
 4. UI shows temperature, description, humidity, and wind.
 
 ## Screenshot
-After running the app, screenshot the weather card and save as:
 
-`docs/weather-integration.png`
+![Open-Meteo weather API integration](weather-integration.png)
+
+File path: `docs/weather-integration.png`
 
 ## Commit reference
 

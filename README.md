@@ -18,7 +18,7 @@ A simple full-stack **Task Manager** web application built for the Full Stack De
 | 4 | Architecture / code-review questions | ✅ See below |
 | 5 | Application starts with `IQT-FSD-2026` | ✅ |
 
-**GitHub Repository:** *(push this project and paste your repo URL here)*  
+**GitHub Repository:** https://github.com/irtaza302/iqt-fsd-2026-task-manager  
 **Live Demo URL:** *(optional — e.g. Render / Railway / Vercel + backend host)*
 
 ---
@@ -173,10 +173,10 @@ Endpoints used:
 4. Capture a screenshot of the temperature and location (place it at `docs/weather-integration.png` when submitting, or attach it in your application email).
 
 ### GitHub commit showing this work
-After you push, link the commit that added `backend/routes/weather.js` and `frontend/src/components/WeatherWidget.jsx`, for example:
+Commit that includes the weather integration (`backend/routes/weather.js` + `frontend/src/components/WeatherWidget.jsx`):
 
 ```text
-https://github.com/<you>/<repo>/commit/<hash>
+https://github.com/irtaza302/iqt-fsd-2026-task-manager/commit/5d52eea
 ```
 
 ---

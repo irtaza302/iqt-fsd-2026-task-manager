@@ -23,8 +23,7 @@ After running the app, screenshot the weather card and save as:
 `docs/weather-integration.png`
 
 ## Commit reference
-Push the repo, then replace with your real commit URL:
 
 ```
-https://github.com/<username>/<repo>/commit/<commit-sha>
+https://github.com/irtaza302/iqt-fsd-2026-task-manager/commit/5d52eea
 ```
